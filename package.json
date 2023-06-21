@@ -45,14 +45,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/TheresaBennett/COMP229-s2023midterm.git"
   },
   "keywords": [
     "NodeJS",
     "ExpressJS",
     "EJS"
   ],
-  "author": "Your Name Goes Here",
+  "author": "Theresa Bennett",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TheresaBennett/COMP229-s2023midterm/issues"
